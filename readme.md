@@ -8,7 +8,7 @@ project that I finished as a student at Codam (the first one was Libft).
 but it will also make you learn a highly interesting new concept in C programming: static
 variables.'*
 
-### What I've learned / improved
+### Skills that I've learned / improved
 - Working with a static variable
 - Using the read function to read to a file or variable.
 - Working with arrays (assigning memory and copying from and to arrays)
