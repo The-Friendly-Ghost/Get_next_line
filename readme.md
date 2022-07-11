@@ -3,7 +3,7 @@
 Get_next_line is a project from the second rank of the Codam curriculum. This was the second
 project that I finished as a student at Codam (the first one was Libft).
 
-### Subject and goal:
+### Goal of project:
 *'This project will not only allow you to add a very convenient function to your collection,
 but it will also make you learn a highly interesting new concept in C programming: static
 variables.'*
