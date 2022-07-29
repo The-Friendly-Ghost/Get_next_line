@@ -1,5 +1,7 @@
 # Get_next_line
 
+[![CodeFactor](https://www.codefactor.io/repository/github/the-friendly-ghost/get_next_line/badge)](https://www.codefactor.io/repository/github/the-friendly-ghost/get_next_line)
+
 Get_next_line is a project from the second rank of the Codam curriculum. This was the second
 project that I finished as a student at Codam (the first one was Libft).
 
