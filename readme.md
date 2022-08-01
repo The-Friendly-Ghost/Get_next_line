@@ -1,4 +1,4 @@
-# Get_next_line
+# Get_next_line 📄
 
 [![CodeFactor](https://www.codefactor.io/repository/github/the-friendly-ghost/get_next_line/badge)](https://www.codefactor.io/repository/github/the-friendly-ghost/get_next_line)
 
